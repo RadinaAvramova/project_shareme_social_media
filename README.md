@@ -1,2 +1,2 @@
-# project_shareme_social_media
-project_shareme_social_media
+# ShareMe Social Media Application
+![ShareMe](https://i.ibb.co/8cLfj3X/image.png)
